@@ -24,10 +24,10 @@ main {
 }
 
 .astext {
-  background:none;
-  border:none;
-  margin:0;
-  padding:0;
+  background: none;
+  border: none;
+  margin: 0;
+  padding: 0;
   cursor: pointer;
   font-size: large;
   color: white;
@@ -47,8 +47,8 @@ body::-webkit-scrollbar-thumb {
 }
 
 body {
-  background-image: url("back.gif");
-  background-size: 100%;
+  background-image: url("images/Test2.gif");
+  background-repeat: repeat;
 
   font-family: OurFont;
   font-size: 22px;
